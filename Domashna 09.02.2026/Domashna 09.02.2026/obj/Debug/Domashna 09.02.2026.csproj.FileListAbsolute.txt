@@ -1,0 +1,8 @@
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\bin\Debug\Domashna 09.02.2026.exe.config
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\bin\Debug\Domashna 09.02.2026.exe
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\bin\Debug\Domashna 09.02.2026.pdb
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\obj\Debug\Domashna 09.02.2026.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\obj\Debug\Domashna 09.02.2026.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\obj\Debug\Domashna 09.02.2026.exe
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\obj\Debug\Domashna 09.02.2026.pdb
+C:\Users\ACER\Desktop\Папка на програмиране\Domashna 09.02.2026\Domashna 09.02.2026\obj\Debug\Domashna 09.02.2026.exe.config
