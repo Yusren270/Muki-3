@@ -1,0 +1,8 @@
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\bin\Debug\12.05.2026.exe.config
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\bin\Debug\12.05.2026.exe
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\bin\Debug\12.05.2026.pdb
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\obj\Debug\12.05.2026.csproj.AssemblyReference.cache
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\obj\Debug\12.05.2026.csproj.CoreCompileInputs.cache
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\obj\Debug\12.05.2026.exe
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\obj\Debug\12.05.2026.pdb
+C:\Users\STEM-1-14\Desktop\Yusren 10a\12.05.2026\12.05.2026\obj\Debug\12.05.2026.exe.config
